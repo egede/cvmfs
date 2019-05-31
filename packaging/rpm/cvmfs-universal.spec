@@ -80,7 +80,7 @@ BuildRequires: libattr-devel
 BuildRequires: openssl-devel
 BuildRequires: patch
 BuildRequires: pkgconfig
-BuildRequires: python-devel
+BuildRequires: python2-devel
 BuildRequires: unzip
 
 Requires: bash
