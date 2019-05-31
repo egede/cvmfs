@@ -81,6 +81,7 @@ BuildRequires: openssl-devel
 BuildRequires: patch
 BuildRequires: pkgconfig
 BuildRequires: python2-devel
+BuildRequires: git
 BuildRequires: unzip
 
 Requires: bash
